@@ -1,0 +1,21 @@
+{
+    "favoriteMovies": "المفضلة",
+    "language": "اللغة",
+    "feedback": "إفادة",
+    "about": "عننا",
+    "english": "الإنجليزية",
+    "arabic" : "العربية",
+    "popular": "الشائعة",
+    "now": "يعرض الان",
+    "soon": "قريبا",
+    "okay": "حسنا",
+    "retry": "إعادة المحاولة",
+    "checkNetworkError": "من فضلك تحقق من اتصالك بخدمة الإنترنت ثم اضفط إعادة المحاولة أو بلغ عن خطأ عن طريق الضغط علي إفادة",
+    "someThingWentWrongError": "حدث خطأ ما ...",
+    "cast": "طاقم العمل",
+    "watchVideos": "شاهد الفيديوهات",
+    "watchTraillers": "شاهد التريللرز",
+    "searchResultsNotFound":"لايوجد نتائج ..."
+
+
+}

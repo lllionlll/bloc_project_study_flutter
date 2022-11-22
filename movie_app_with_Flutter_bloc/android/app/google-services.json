@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "856089445342",
+    "project_id": "movie-app-ccbbb",
+    "storage_bucket": "movie-app-ccbbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856089445342:android:0a77fa9c73d1186fb0534f",
+        "android_client_info": {
+          "package_name": "com.example.movies_app_with_bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856089445342-na9lcq5hqf0etc2ugrpvtg8hjsbrcg9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqQoYtkStsjkXeD7qEbctrTRFhiUHOc4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856089445342-na9lcq5hqf0etc2ugrpvtg8hjsbrcg9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+{
+    "favoriteMovies": "Favorite Movies",
+    "language": "Language",
+    "feedback": "Feedback",
+    "about": "About",
+    "english": "English",
+    "arabic" : "العربية",
+    "popular": "Popular",
+    "now": "Now",
+    "soon": "Soon",
+    "okay": "Okay",
+    "retry": "Retry",
+    "checkNetworkError": "Please check your network connection and press Retry button o put in as a bug by pressing Feedback button",
+    "someThingWentWrongError": "Something went wrong...",
+    "cast": "Cast",
+    "watchVideos": "Watch Videos",
+    "watchTraillers": "Watch Traillers",
+    "searchResultsNotFound":"Search results not found, try enter another keword"
+}
